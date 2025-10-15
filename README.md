@@ -1,0 +1,2 @@
+# Restaurant-Review-Classification-and-monitoring-system
+With the use of Natural Language Processing and Machine learning I have created an NLP-based system that helps restaurants to classify and monitor their reviews, classifying the reviews to either "Positive", "Negative", or even "Neutral". This greatly helps restaurants to improve customer service, retain customers and ensure increase in revenue.
